@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Calculateyourdateofbirth\bin\Debug\Calculateyourdateofbirth.exe.config
+C:\Users\HP\source\repos\Calculateyourdateofbirth\bin\Debug\Calculateyourdateofbirth.exe
+C:\Users\HP\source\repos\Calculateyourdateofbirth\bin\Debug\Calculateyourdateofbirth.pdb
+C:\Users\HP\source\repos\Calculateyourdateofbirth\obj\Debug\Calculateyourdateofbirth.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Calculateyourdateofbirth\obj\Debug\Calculateyourdateofbirth.Form1.resources
+C:\Users\HP\source\repos\Calculateyourdateofbirth\obj\Debug\Calculateyourdateofbirth.Properties.Resources.resources
+C:\Users\HP\source\repos\Calculateyourdateofbirth\obj\Debug\Calculateyourdateofbirth.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Calculateyourdateofbirth\obj\Debug\Calculateyourdateofbirth.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Calculateyourdateofbirth\obj\Debug\Calculateyourdateofbirth.exe
+C:\Users\HP\source\repos\Calculateyourdateofbirth\obj\Debug\Calculateyourdateofbirth.pdb
