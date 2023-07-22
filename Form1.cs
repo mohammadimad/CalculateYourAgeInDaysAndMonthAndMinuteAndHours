@@ -21,12 +21,7 @@ namespace Calculateyourdateofbirth
         {
 
         }
-        public struct stDate
-        {
-            public int Day;
-            public int Month;
-            public int Year;
-        }
+        
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -35,18 +30,7 @@ namespace Calculateyourdateofbirth
             dateTimePickerBirthdate.MaxDate = DateTime.Today;
            
         }
-        public stDate StringToDate(string DateString)
-        {
-            stDate Date = new stDate();
-            string[] vDate;
-
-            vDate = DateString.Split('/');
-            Date.Day = int.Parse(vDate[0]);
-            Date.Month = int.Parse(vDate[1]);
-            Date.Year = int.Parse(vDate[2]);
-            return Date;
-        
-    }
+       
         private void button1_Click(object sender, EventArgs e)
         {
             DateTime birthdate = dateTimePickerBirthdate.Value;
@@ -71,10 +55,6 @@ namespace Calculateyourdateofbirth
             MessageBox.Show("عمرك بالسنوات : " + ageInYear.ToString() + "\n عمرك بالاشهر : " + ageInMonth.ToString()
                 +"\n" + "عمرك بالايام : " + ageInDays.ToString() + "\n" + "عمرك بالساعات : " + ageInHours.ToString()
                 + "\n" + "عمرك الدقائق : " + ageInMinute.ToString() + "\n" + "عمرك بالثواني : " + ageInSecond.ToString(), "Detals", MessageBoxButtons.OK) ;
-
-
-         
-           
         }
 
         private void dateTimePickerBirthdate_ValueChanged(object sender, EventArgs e)
